@@ -1,0 +1,15 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+.env
+
+# Local outputs
+reports/
+*.log
+
+# Keep generated sample CSVs and processed analytics outputs versionable for portfolio review.
+!.gitkeep

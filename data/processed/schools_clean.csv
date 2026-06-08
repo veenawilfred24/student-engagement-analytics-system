@@ -1,0 +1,101 @@
+school_id,school_name,region,school_type,urbanicity,teacher_student_ratio,digital_readiness_score,implementation_quality
+SCH001,School 001,West,Low-cost Private,Rural,0.0292,78.9,81.7
+SCH002,School 002,East,Private,Rural,0.0305,84.5,83.6
+SCH003,School 003,Central,Public,Suburban,0.0295,68.5,51.8
+SCH004,School 004,West,Low-cost Private,Urban,0.0323,52.9,30.8
+SCH005,School 005,North,Charter,Urban,0.0416,75.8,86.4
+SCH006,School 006,Central,Charter,Urban,0.018,72.3,53.9
+SCH007,School 007,West,Public,Urban,0.0296,65.5,71.7
+SCH008,School 008,West,Public,Suburban,0.0325,79.6,62.4
+SCH009,School 009,North,Public,Urban,0.0333,66.1,67.9
+SCH010,School 010,East,Low-cost Private,Suburban,0.0286,77.6,77.5
+SCH011,School 011,South,Public,Suburban,0.019,92.5,86.0
+SCH012,School 012,Central,Public,Suburban,0.0335,57.3,51.3
+SCH013,School 013,West,Public,Urban,0.0433,84.3,86.2
+SCH014,School 014,Central,Private,Rural,0.0205,64.0,65.2
+SCH015,School 015,East,Public,Suburban,0.0373,77.7,60.8
+SCH016,School 016,South,Low-cost Private,Suburban,0.029,63.2,80.2
+SCH017,School 017,East,Charter,Urban,0.0308,37.6,92.3
+SCH018,School 018,North,Charter,Urban,0.0239,52.2,50.8
+SCH019,School 019,Central,Public,Rural,0.0289,67.3,66.2
+SCH020,School 020,West,Private,Urban,0.0404,69.8,61.2
+SCH021,School 021,West,Private,Urban,0.0353,46.9,77.8
+SCH022,School 022,South,Private,Suburban,0.0434,76.7,62.2
+SCH023,School 023,Central,Public,Suburban,0.0395,59.1,60.8
+SCH024,School 024,Central,Public,Rural,0.0343,65.1,43.5
+SCH025,School 025,West,Public,Urban,0.0435,70.7,63.9
+SCH026,School 026,North,Private,Rural,0.0343,74.9,74.2
+SCH027,School 027,East,Public,Urban,0.037,58.7,87.2
+SCH028,School 028,North,Public,Suburban,0.0292,70.8,68.8
+SCH029,School 029,North,Public,Suburban,0.0317,85.8,53.2
+SCH030,School 030,West,Private,Urban,0.0264,88.5,74.0
+SCH031,School 031,West,Public,Urban,0.0382,91.0,65.1
+SCH032,School 032,Central,Low-cost Private,Urban,0.023,44.1,79.6
+SCH033,School 033,South,Private,Rural,0.0367,66.8,60.1
+SCH034,School 034,South,Public,Suburban,0.0299,89.0,63.7
+SCH035,School 035,East,Private,Rural,0.0394,62.0,63.1
+SCH036,School 036,North,Public,Rural,0.0365,78.1,69.1
+SCH037,School 037,North,Low-cost Private,Suburban,0.044,72.4,65.8
+SCH038,School 038,East,Private,Rural,0.0364,57.0,74.3
+SCH039,School 039,South,Charter,Urban,0.0202,70.8,40.2
+SCH040,School 040,West,Public,Urban,0.0308,75.4,63.4
+SCH041,School 041,East,Private,Rural,0.023,59.6,66.3
+SCH042,School 042,Central,Private,Rural,0.0276,68.2,91.9
+SCH043,School 043,West,Low-cost Private,Urban,0.0418,80.1,81.9
+SCH044,School 044,South,Private,Suburban,0.0357,61.8,63.1
+SCH045,School 045,Central,Public,Suburban,0.0264,67.1,90.1
+SCH046,School 046,Central,Public,Rural,0.0242,79.4,71.7
+SCH047,School 047,South,Public,Suburban,0.0315,92.2,79.7
+SCH048,School 048,South,Private,Urban,0.0227,68.5,83.7
+SCH049,School 049,West,Public,Urban,0.0266,83.5,91.7
+SCH050,School 050,North,Public,Suburban,0.0334,53.1,69.5
+SCH051,School 051,North,Low-cost Private,Suburban,0.0393,48.1,88.9
+SCH052,School 052,North,Low-cost Private,Rural,0.0355,25.2,52.1
+SCH053,School 053,West,Public,Suburban,0.018,85.4,82.9
+SCH054,School 054,West,Private,Urban,0.0334,58.0,73.4
+SCH055,School 055,West,Public,Urban,0.0318,54.8,73.8
+SCH056,School 056,West,Private,Suburban,0.0341,47.4,58.5
+SCH057,School 057,East,Public,Rural,0.0426,66.3,88.9
+SCH058,School 058,East,Private,Urban,0.018,65.4,79.2
+SCH059,School 059,North,Charter,Urban,0.0271,84.0,73.7
+SCH060,School 060,North,Charter,Suburban,0.0354,58.6,65.8
+SCH061,School 061,West,Public,Urban,0.0202,79.6,38.7
+SCH062,School 062,East,Low-cost Private,Rural,0.0416,29.8,83.7
+SCH063,School 063,East,Public,Urban,0.0338,69.4,47.7
+SCH064,School 064,West,Public,Urban,0.0372,56.7,86.4
+SCH065,School 065,West,Private,Rural,0.0273,19.9,83.8
+SCH066,School 066,East,Public,Urban,0.0369,54.1,77.5
+SCH067,School 067,East,Low-cost Private,Urban,0.0387,47.8,51.4
+SCH068,School 068,South,Charter,Urban,0.0329,63.4,48.8
+SCH069,School 069,North,Public,Urban,0.0329,86.3,71.7
+SCH070,School 070,East,Low-cost Private,Urban,0.0331,95.6,73.5
+SCH071,School 071,North,Public,Urban,0.0252,58.4,34.9
+SCH072,School 072,South,Private,Urban,0.0302,55.8,69.7
+SCH073,School 073,Central,Public,Urban,0.0302,85.6,38.4
+SCH074,School 074,South,Low-cost Private,Suburban,0.0339,44.0,58.0
+SCH075,School 075,North,Public,Suburban,0.0382,60.1,70.8
+SCH076,School 076,South,Public,Urban,0.0238,85.0,40.7
+SCH077,School 077,South,Public,Urban,0.0304,82.5,49.5
+SCH078,School 078,West,Low-cost Private,Suburban,0.0416,57.2,62.1
+SCH079,School 079,East,Low-cost Private,Rural,0.026,95.5,56.1
+SCH080,School 080,West,Charter,Rural,0.0255,38.0,66.9
+SCH081,School 081,West,Low-cost Private,Urban,0.0327,37.2,84.2
+SCH082,School 082,South,Low-cost Private,Urban,0.0372,61.0,79.0
+SCH083,School 083,Central,Private,Urban,0.0313,84.7,64.6
+SCH084,School 084,North,Public,Urban,0.0406,90.3,79.5
+SCH085,School 085,North,Charter,Suburban,0.0372,66.3,71.8
+SCH086,School 086,North,Private,Urban,0.0371,52.2,67.0
+SCH087,School 087,West,Public,Urban,0.0351,87.9,44.5
+SCH088,School 088,East,Public,Urban,0.0475,64.9,64.1
+SCH089,School 089,North,Charter,Suburban,0.0298,59.4,68.6
+SCH090,School 090,East,Public,Urban,0.018,29.0,45.8
+SCH091,School 091,North,Low-cost Private,Rural,0.0425,53.1,79.3
+SCH092,School 092,West,Public,Urban,0.028,87.1,65.0
+SCH093,School 093,East,Public,Rural,0.032,84.6,60.4
+SCH094,School 094,South,Low-cost Private,Urban,0.0404,91.8,92.7
+SCH095,School 095,South,Public,Rural,0.02,56.6,86.4
+SCH096,School 096,West,Public,Rural,0.0225,71.1,33.5
+SCH097,School 097,South,Private,Rural,0.02,88.4,90.8
+SCH098,School 098,North,Low-cost Private,Rural,0.0257,80.0,83.4
+SCH099,School 099,North,Public,Rural,0.0343,85.7,63.7
+SCH100,School 100,Central,Public,Suburban,0.0349,70.3,67.6
