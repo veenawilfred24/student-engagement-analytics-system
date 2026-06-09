@@ -249,7 +249,3 @@ Example interventions:
 - Socioeconomic and access fields are included for support-equity analysis. Any real deployment would require privacy, fairness, and governance review.
 - The SQL uses PostgreSQL syntax. BigQuery, Snowflake, or SQL Server would require minor date and casting changes.
 - The dashboard file is a Power BI design specification, not a `.pbix` file.
-
-## Resume-Ready Summary
-
-Built an anonymized student engagement analytics case study using Python, SQL, and Power BI design. Generated a reproducible dataset of 5,000 learners across 100 schools, engineered engagement and retention features, created school rankings and at-risk learner logic, and documented dashboard-ready insights for academic operations stakeholders.
